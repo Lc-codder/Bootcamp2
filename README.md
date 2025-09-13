@@ -1,6 +1,6 @@
 # Bootcamp Helper — Extensão Chrome 
 
-![Bootcamp Helper](icons/icon128.png)
+![Bootcamp Helper](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp6lLpTR4-wV3z1J-LfagNT4yvhCkXLZNcNA&s)
 
 Extensão simples para Google Chrome desenvolvida como projeto inicial do **Bootcamp II**.  
 Permite testar comunicação entre **popup** e **background**, além de demonstrar um **content script** que manipula o DOM da página.
